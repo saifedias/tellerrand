@@ -1,0 +1,2 @@
+# tellerrand
+kaggle competition titanic
